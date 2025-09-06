@@ -8,7 +8,7 @@ const validUsers = [
         password:"secret_sauce"
     },
     {
-        username:"visual_user",
+        username:"problem_user",
         password:"secret_sauce"
     },
 ]
